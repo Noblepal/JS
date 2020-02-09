@@ -1,3 +1,3 @@
 # JS - Instructions:
 
-Write a javascript function to extract all numbers in the following string into an array
+Write a JavaScript *function* to get the values of First and Last name of the following form.
